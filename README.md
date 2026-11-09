@@ -14,7 +14,7 @@
 - writing *love letters to my intrusive thoughts*, *curated lists of my hyperfixations*, *a mirror into my relationships*, and *tech made simple* on [**substack**](https://srishtigangolly.substack.com/)
 - practicing the art of saying things out loud, with purpose, structure and confidence, at **toastmasters** 🎤
 
-*currently.... grinding through leetcode sql 50, writing a product series on substack, and building in public(ish)!*
+*currently.... grinding through leetcode sql 50, writing a [**product series**]([https://srishtigangolly.substack.com/](https://srishtigangolly.substack.com/s/renovation)) on substack, and building in public(ish)!*
 
 ---
 
