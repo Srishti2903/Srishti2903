@@ -1,7 +1,7 @@
 <h2 align="center">˚₊‧ hi, i'm srishti ‧₊˚</h2>
 
 <p align="center">
-  📍 toronto &nbsp;·&nbsp; <i>still in beta, built with lots of love</i> ᵕ̈
+  📍 toronto &nbsp;·&nbsp; <i>numbers girl with a creative twist ۶ৎ </i>
 </p>
 
 ---
