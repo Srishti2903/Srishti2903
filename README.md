@@ -8,7 +8,7 @@
 
 ## ✿ about me
 
-i'm a senior at the **university of toronto** studying **applied math**, with minors in *geospatial data science* & *statistics*.
+i'm a seniorᵕ̈ at the **university of toronto** studying **applied math**, with minors in *geospatial data science* & *statistics*.
 
 across two internships, one at a startup (**vosyn**) and one at a fintech company (**intuit**), i worked where *numbers met marketing* and saw how the same data-driven mindset plays out differently depending on the room you're in.
 
