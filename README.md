@@ -12,7 +12,7 @@ i'm a seniorᵕ̈ at the **university of toronto** studying **applied math**, wi
 
 across two internships, one at a startup (**vosyn**) and one at a fintech company (**intuit**), i worked where *numbers met marketing* and saw how the same data-driven mindset plays out differently depending on the room you're in.
 
-i want to work where **data, technology & business overlap**, using that mix to drive *smarter decisions and better products*.
+i want to work in teams where **data, technology & business overlap**, using that mix to drive *smarter decisions and better products*.
 
 ***currently***
 - open to **new grad & co-op roles** in **data/business analytics**, **product management**, **tech consulting** & **martech**
