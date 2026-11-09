@@ -8,8 +8,6 @@
 
 ## ✿ about me
 
-*curiosity has never been separate from the way i work.* at the end of the day, i care about **leading with intention** and showing up with ***structure, creativity, and a genuine desire to learn*** in everything i take on.
-
 - exploring roles in **data/business analytics**, **product management**, **tech consulting** & **martech**
 - writing *love letters to my intrusive thoughts*, *curated lists of my hyperfixations*, *a mirror into my relationships*, and *tech made simple* on [**substack**](https://srishtigangolly.substack.com/)
 - practicing the art of saying things out loud, with purpose, structure and confidence, at **toastmasters** 🎤
