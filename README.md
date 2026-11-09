@@ -28,7 +28,7 @@ i want to work in teams where **data, technology & business overlap**, using tha
 | project | what it is | built with |
 |---|---|---|
 | [**portfolio**](https://srishtigangolly.com/) | my portfolio is a ***retro pixel desktop*** you can wander through:<br>• the homepage is full of icons you can open <sub>*(and drag around!)*</sub><br>• every page is a *tiny window* to get to know me, my work, my projects & my thoughts<br>• there's a **mailbox** where you can write me a letter or send a bouquet ✉︎ ♡ | `HTML` · `CSS` · `JavaScript` · `Figma` · `Claude Code` |
-| **Ready, Set, Market** <br><sub>*case competition · fall 2025*</sub> | a *personalized digital experience* that recommends unique skincare routines based on user preferences, with **digestible, consumer-friendly ingredient info** built in | `Audience Segmentation` · `Figma` · `Claude Code` |
+| [**Ready, Set, Market**](https://srishtigangolly.com/rsm.html) <br><sub>*case competition · fall 2025*</sub> | a *personalized digital experience* that recommends unique skincare routines based on user preferences, with **digestible, consumer-friendly ingredient info** built in | `Audience Segmentation` · `Figma` · `Claude Code` |
 
 ---
 
